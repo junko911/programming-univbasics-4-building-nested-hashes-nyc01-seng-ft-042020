@@ -60,4 +60,5 @@ def monopoly_with_fourth_tier
   hash[:railroads][:names][:shortline_railroad] = {
     :mortgage_value => 800
   }
+  hash
 end
